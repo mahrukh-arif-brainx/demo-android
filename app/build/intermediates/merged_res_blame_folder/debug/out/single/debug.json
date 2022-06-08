@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video3.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\video3.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_notification.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_training.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\training.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_event_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\event_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_notification.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_remove_red_eye_24.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable\\ic_baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_brainx.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\brainx.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_training.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\layout\\activity_training.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_video2.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\video2.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_video3.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\video3.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\layout_training_card.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\layout\\training_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_levelup_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\levelup_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_home.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_training.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\training.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video2.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\video2.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_activities_tips.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\activities_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_video1.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\video1.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_brainx.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\brainx.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_training.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\training.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_notification.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_video3.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\video3.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_training.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\training.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_trackit.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\trackit.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_activities_tips.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\activities_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_event_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\event_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_video1.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\video1.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_notification.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_notification.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_video2.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\video2.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video1.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\video1.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_say_share.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\say_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_activities_tips.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\activities_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_notification.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_codewell.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\codewell.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_levelup_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\levelup_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_trackit.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\trackit.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_trackit.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\trackit.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_say_share.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\say_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_video1.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\video1.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_video2.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\video2.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_do_today.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\do_today.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_say_share.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\say_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_do_today.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\do_today.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_home.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_home.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_codewell.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\codewell.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_brainx.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\brainx.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video3.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\video3.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_activities_tips.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\activities_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_video3.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\video3.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_codewell.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\codewell.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_video3.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\video3.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_activities_tips.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\activities_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_activities_tips.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\activities_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_event_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\event_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_codewell.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\codewell.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_video2.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\video2.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_codewell.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\codewell.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_brainx.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\brainx.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_home.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_video2.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\video2.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_do_today.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\do_today.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_brainx.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\brainx.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_gradient.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable\\splash_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_do_today.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\do_today.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_do_today.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\do_today.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_levelup_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\levelup_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_say_share.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\say_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_do_today.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\do_today.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_say_share.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\say_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_trackit.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\trackit.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_video1.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\video1.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_codewell.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\codewell.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_levelup_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\levelup_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_brainx.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\brainx.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_event_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\event_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_event_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\event_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_text_style.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable\\edit_text_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_event_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\event_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_levelup_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\levelup_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_trackit.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxxhdpi\\trackit.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_say_share.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\say_share.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_trackit.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xhdpi\\trackit.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_video1.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\video1.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_training.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-xxhdpi\\training.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_levelup_icon.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-mdpi\\levelup_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_training.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-hdpi\\training.png"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\hassa\\AndroidStudioProjects\\DemoProject\\app\\src\\main\\res\\drawable-ldpi\\settings.png"
+    }
+]
