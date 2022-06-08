@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="events">Events</string>
+    <string name="training">Training</string>
+    <string name="say_share">say and share</string>
+    <string name="business_planning">Business \n planning</string>
+    <string name="marketing_properties">Marketing \n properties</string>
+    <string name="personal_marketing">Personal \n Marketing</string>
+    <string name="prospecting_listings">Prospecting \n Listings</string>
+    <string name="contracts_forms">Contracts \n Forms</string>
+    <string name="technology_tools">technology \n tools</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_password">enter password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="log_in">Log In</string>
+    <string name="not_yet_member">Not yet a member?</string>
+    <string name="signup">Signup</string>
+    <string name="powered_by">POWERED BY</string>
+    <string name="welcome">Welcome</string>
+    <string name="do_today">Do Today</string>
+    <string name="activities_tips">Activities Tips</string>
+    <string name="track_it">Track It</string>
+
+
+
+
+
+
+
+</resources>
