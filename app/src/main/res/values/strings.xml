@@ -21,11 +21,8 @@
     <string name="do_today">Do Today</string>
     <string name="activities_tips">Activities Tips</string>
     <string name="track_it">Track It</string>
-
-
-
-
-
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
 
 
 </resources>
