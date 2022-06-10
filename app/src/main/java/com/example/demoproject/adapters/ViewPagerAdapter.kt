@@ -17,8 +17,8 @@ class PagerAdapter(fragmentManager: FragmentManager, lifecycle: Lifecycle):Fragm
 
     override fun createFragment(position: Int): Fragment {
         when(position){
-            1->return HomeFragment()
-            2->return NotificationFragment()
+            0->return HomeFragment()
+            1->return NotificationFragment()
         }
        return SettingsFragment()
     }
