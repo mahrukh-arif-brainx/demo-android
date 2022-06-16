@@ -22,7 +22,6 @@ class TrainingActivityViewModel:ViewModel() {
     val msg=MutableLiveData<String>()
     fun getAllTrainings(context:Context)
     {
-        viewModelScope.launch(Dispatchers.IO) {
             val sharedPreference = AppSharedPreference.getAppSharedPreferences(context)
             val retrofitBuilder = RetrofitInstance.buildService(ApiInterface::class.java)
             val retrofitData = retrofitBuilder?.getTrainings(
@@ -39,12 +38,12 @@ class TrainingActivityViewModel:ViewModel() {
                 {
                     if(response.isSuccessful)
                     {
-                        trainings.postValue(response.body())
+                        trainings.setValue(response.body())
                     }
                     else
                     {
                         val jsonObject=JSONObject(response.errorBody()?.string())
-                        msg.postValue(jsonObject.getString("errors"))
+                        msg.setValue(jsonObject.getString("errors"))
 
                     }
                 }
@@ -57,6 +56,6 @@ class TrainingActivityViewModel:ViewModel() {
         }
 
     }
-}
+
 
 

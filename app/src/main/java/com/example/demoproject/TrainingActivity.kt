@@ -9,11 +9,14 @@ import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.demoproject.databinding.ActivityTrainingBinding
 import com.example.demoproject.models.TrainingApiResponse
 
 class TrainingActivity : AppCompatActivity() {
+    lateinit var dBinding:ActivityTrainingBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContentView(R.layout.activity_training)
 
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
@@ -27,9 +30,6 @@ class TrainingActivity : AppCompatActivity() {
         viewModel.msg.observe(this, Observer {
             Toast.makeText(this,it,Toast.LENGTH_SHORT).show()
         })
-
-
-
 
     }
     override fun onSupportNavigateUp(): Boolean {

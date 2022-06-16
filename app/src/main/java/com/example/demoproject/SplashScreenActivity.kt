@@ -5,13 +5,16 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
+import com.example.demoproject.databinding.ActivitySplashScreenBinding
 import com.example.demoproject.models.AppSharedPreference
 
 
 class SplashScreenActivity : AppCompatActivity() {
+    lateinit var dBinding:ActivitySplashScreenBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splash_screen)
+        dBinding=ActivitySplashScreenBinding.inflate(layoutInflater)
+        setContentView(dBinding.root)
         Handler(Looper.getMainLooper()).postDelayed({
             if (isLogin()) {
                 val i = Intent(this@SplashScreenActivity, HomeActivity::class.java)

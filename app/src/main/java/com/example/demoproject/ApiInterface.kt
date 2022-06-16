@@ -1,5 +1,6 @@
 package com.example.demoproject
 
+import androidx.lifecycle.MutableLiveData
 import com.example.demoproject.models.LoginApiResponse
 import com.example.demoproject.models.RandomApiResponse
 import com.example.demoproject.models.TrainingApiResponse
@@ -12,7 +13,7 @@ import retrofit2.http.Query
 interface ApiInterface {
     @POST("/api/v1/users/sign_in.json")
     fun getAuthenticatedUser(
-        @Query("email") email: String,
+        @Query("email") email:String,
         @Query("password") password: String
     ): Call<LoginApiResponse>
 

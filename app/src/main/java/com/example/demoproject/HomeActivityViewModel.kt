@@ -2,6 +2,7 @@ package com.example.demoproject
 
 import android.content.Context
 import android.util.Log
+import android.widget.Toast
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
@@ -20,7 +21,7 @@ class HomeActivityViewModel : ViewModel() {
 
     fun getAuthorAndQuote(context: Context) {
 
-        viewModelScope.launch(Dispatchers.IO) {
+
             val retrofitBuilder = RetrofitInstance.buildService(ApiInterface::class.java)
             val sharedPreference = AppSharedPreference.getAppSharedPreferences(context)
 
@@ -32,26 +33,23 @@ class HomeActivityViewModel : ViewModel() {
 
                 )
 
-
             retrofitData?.enqueue(object : Callback<RandomApiResponse?> {
                 override fun onResponse(
                     call: Call<RandomApiResponse?>,
                     response: Response<RandomApiResponse?>
                 ) {
                     if (response.isSuccessful) {
-                        authorAndQuote.postValue(response.body())
-
+                        authorAndQuote.setValue(response.body())
                     }
                     else {
                         val jsonObject = JSONObject(response.errorBody()?.string())
-                        msg.postValue(jsonObject.getString("errors"))
+                        msg.setValue(jsonObject.getString("errors"))
                     }
                 }
 
                 override fun onFailure(call: Call<RandomApiResponse?>, t: Throwable) {
-                    msg.postValue(t.message)
+                    msg.setValue(t.message)
                 }
             })
         }
     }
-}

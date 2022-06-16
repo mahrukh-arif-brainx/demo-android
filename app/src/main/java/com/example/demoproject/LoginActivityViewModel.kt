@@ -1,7 +1,9 @@
 package com.example.demoproject
 
+import android.app.Application
 import android.content.Context
 import android.util.Log
+import android.widget.Toast
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
@@ -13,16 +15,18 @@ import org.json.JSONObject
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
+import java.security.AccessController.getContext
 
 
 class LoginActivityViewModel : ViewModel() {
     val authenticatedUser = MutableLiveData<LoginApiResponse>()
     var msg = MutableLiveData<String>()
+    var password=MutableLiveData<String>()
+    var email=MutableLiveData<String>()
 
-    fun getResponse(email: String, password: String, context: Context) {
-        viewModelScope.launch(Dispatchers.IO){
-            val retrofitBuilder = RetrofitInstance.buildService(ApiInterface::class.java)
-            val retrofitData = retrofitBuilder?.getAuthenticatedUser(email, password)
+    fun getResponse(context:Context) {
+        val retrofitBuilder = RetrofitInstance.buildService(ApiInterface::class.java)
+            val retrofitData = retrofitBuilder?.getAuthenticatedUser(email.value.toString(), password.value.toString())
             retrofitData?.enqueue(object : Callback<LoginApiResponse?> {
                 override fun onResponse(
                     call: Call<LoginApiResponse?>,
@@ -30,7 +34,7 @@ class LoginActivityViewModel : ViewModel() {
                 ) {
                     if (response.isSuccessful) {
                         response.body()?.let {
-                            authenticatedUser.postValue(response.body())
+                            authenticatedUser.setValue(response.body())
                             AppSharedPreference.getAppSharedPreferences(context)
                                 ?.apply {
                                     setValue("is_login", true)
@@ -43,7 +47,7 @@ class LoginActivityViewModel : ViewModel() {
                     }
                     else {
                         val jsonObject = JSONObject(response.errorBody()?.string())
-                        msg.postValue(jsonObject.getString("error"))
+                        msg.setValue(jsonObject.getString("error"))
 
                     }
 
@@ -54,6 +58,6 @@ class LoginActivityViewModel : ViewModel() {
                 }
             })
         }
+
     }
 
-}
